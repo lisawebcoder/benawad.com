@@ -1,0 +1,7 @@
++] Running 5/5
+ ✘ goaccess Error                                      6.0s
+ ✘ es Error                                            6.2s
+ ✘ server Error                                        6.0s
+ ✘ web Error                                           5.8s
+ ✘ proxy Error                                         5.9s
+Error response from daemon: pull access denied for web, repository does not exist or may require 'docker login': denied: requested access to the resource is denied
